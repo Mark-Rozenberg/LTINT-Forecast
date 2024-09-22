@@ -1,0 +1,10 @@
+pandas
+datetime
+numpy
+matplotlib
+seaborn
+requests
+statmodels
+linearmodels
+sklearn
+mlxtend
