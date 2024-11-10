@@ -1,4 +1,5 @@
 pandas
+openpyxl
 datetime
 numpy
 matplotlib
@@ -9,3 +10,4 @@ linearmodels
 scikit-learn
 mlxtend
 jupyter
+ipykernel
